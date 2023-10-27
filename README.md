@@ -33,7 +33,7 @@ tgState
 
 测试图片：
 
-![tgState](https://tgstate.vercel.app/d/BQACAgUAAx0EcyK3ugACByxlOR-Nfl4esavoO4zdaYIP_k1KYQACDAsAAkf4yFVpf_awaEkS8jAE)  
+https://tg-state-kappa.vercel.app/d/28.jpg
 
 **准备说明**
 部署前需要准备一个Telegram Bot(@botfather处申请)  
